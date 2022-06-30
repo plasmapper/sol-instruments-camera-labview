@@ -3,6 +3,9 @@ LabVIEW instrument driver for SOL Instruments (Proscan) cameras.
 
 Tested on Proscan HS 102H.
 
+## Disclaimer
+This library was written using reverse engineering due to the lack of the device protocol information.
+
 ## Requirements
 LabVIEW 2015 and higher.
 
