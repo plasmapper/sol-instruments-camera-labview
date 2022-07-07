@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-06-30 14:13:36" Creator="Researcher" Comments="" ID="ab8af649eb7e47d885b137c4b9a6f79e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:17:15" Creator="Researcher" Comments="" ID="3d87162adea53a87fab6c798af35328d">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_SOL_Instruments_Camera</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -43,7 +43,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/sol-instruments-camera-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -290,7 +290,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8958881243BCCCC144C9285EFD592A72</GUID>
+      <GUID>65BCA5EAC771FD649C67E5CC2C04E4DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -437,7 +437,7 @@ Features
         <Path>Public\Configure\Configure Acquisition Mode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4AF7E36A192C19976071EEBE31BDD349</GUID>
+      <GUID>A4C544BFACA30115CD25FFCC99E5DBFB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -472,7 +472,7 @@ Features
         <Path>Public\Data\Acquire and Read Frames.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>79D48FFE7D1DFA64CAAC02B4FFB74DEE</GUID>
+      <GUID>56240377D9654093F6B9DE47158F3BA0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -507,7 +507,7 @@ Features
         <Path>Public\Utility\Get Device Information.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>91CA1EB9EF2E09D93045CCCCEA1504D2</GUID>
+      <GUID>EE929E02558C58A9719D9B10A6D69AD9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
