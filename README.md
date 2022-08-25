@@ -1,6 +1,4 @@
-# SOL Instruments (Proscan) Camera Library for LabVIEW
-LabVIEW instrument driver for SOL Instruments (Proscan) cameras.
-
+# LabVIEW Instrument Driver for SOL Instruments (Proscan) Cameras
 Tested on Proscan HS 102H.
 
 ## Disclaimer
